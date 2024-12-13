@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DK2109
-- 👀 I’m interested in AI, ML, Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on AI & ML
+- 👋 Hi, I’m Dhanush Kanna
+- 👀 I’m interested in SAP, Android, AI, ML, Data Science
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate on Android Development
 - 📫 How to reach me ...
 
 <!---
